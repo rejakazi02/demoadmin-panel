@@ -1,1 +1,1 @@
-# st-goals-admin-panel
+# st-admin-panel
